@@ -1,0 +1,25 @@
+# QuestaSim / ModelSim
+work/
+transcript
+vsim.wlf
+*.wlf
+wlf*
+modelsim.ini
+*.qdb
+*.bak
+*.log
+
+# Vivado
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.Xil/
+*.jou
+*.str
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
