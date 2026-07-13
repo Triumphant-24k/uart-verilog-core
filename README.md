@@ -215,7 +215,3 @@ run -all
 | UART Loopback | Verified |
 
 ---
-
-## Notes
-
-This implementation uses a simple UART format: 8 data bits, no parity, and 1 stop bit. It is suitable for RTL learning, simulation, and as a base for FPGA integration.
